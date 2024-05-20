@@ -21,7 +21,7 @@ const About = () => {
                 Ich bin bestrebt, meine Kenntnisse in Deutschland durch eine Ausbildung weiter zu vertiefen und freue mich auf die Möglichkeit, in einem dynamischen Umfeld zu lernen und zu wachsen.
                 </p>
                 <a download="" href={Cv} className="button button--flex">
-                    Download Cv
+                Lebenslauf Herunterladen
                     <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

@@ -56,7 +56,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Web-Entwickler</h3>
         <p className="home__description">
-        Ich bin ein Webentwickler in Marokko. Ich suche eine Ausbildung als Fachinformatiker für Anwendungsentwicklung.
+        Ich bin ein Webentwickler in Marokko. Ich suche eine Ausbildungplätz als Fachinformatiker für Webentwicklung.
         </p>
 
         <a href="#contact" className="button button--flex">

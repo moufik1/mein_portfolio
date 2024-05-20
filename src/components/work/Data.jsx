@@ -1,10 +1,10 @@
-import Work1 from "../../assets/work1.jpg";
+import openspace from "../../assets/openspace.png";
 
 export const projectsData = [
     {
         id: 1,
-        image: Work1,
-        title: 'Web Developer',
+        image: openspace,
+        title: 'Buchungswebsite in Coffee',
         category: 'web',
     },
 ];

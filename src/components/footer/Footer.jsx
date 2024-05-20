@@ -8,11 +8,11 @@ const Footer = () => {
             <h1 className="footer__title">Mouad Fikri</h1>
             <ul className="footer__list">
                 <li>
-                    <a href="#about" className="footer__link">About</a>
+                    <a href="#about" className="footer__link">Über mich</a>
                 </li>
 
                 <li>
-                    <a href="#portfolio" className="footer__link">Projects</a>
+                    <a href="#document" className="footer__link">Unterlagen</a>
                 </li>
 
                 <li>
@@ -21,11 +21,11 @@ const Footer = () => {
             </ul>
 
             <div className="footer__social">
-                <a href="" className="footer__social-link"target='_blank'><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.instagram.com/mouadfikri2/" className="footer__social-link"target='_blank'><i class="bx bxl-instagram"></i></a>
 
-                <a href="" className="footer__social-link"target='_blank'><i class="bx bxl-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/mouadfikri/" className="footer__social-link"target='_blank'><i class="bx bxl-linkedin"></i></a>
 
-                <a href="" className="footer__social-link"target='_blank'><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.facebook.com/moad.fikri.9/" className="footer__social-link"target='_blank'><i class="bx bxl-facebook"></i></a>
             </div>
 
             <span className="footer__copy">&#169; Crypticalcoder. All rights reserved</span>

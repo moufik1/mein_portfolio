@@ -29,8 +29,8 @@ const Qualification = () => {
                     "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Learn German</h3>
-                            <span className="qualification__subtitle">Settat - Maghreb Language Center</span>
+                            <h3 className="qualification__title">Deutsch lernen</h3>
+                            <span className="qualification__subtitle">Maghreb Language Center - Settat </span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2023
                             </div>
@@ -49,8 +49,8 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Diplome: Specialist in multimedia development</h3>
-                            <span className="qualification__subtitle">Institute for Applied Technology 2-Settat</span>
+                            <h3 className="qualification__title">Diplom: TECHNIKEN DER MULTIMEDIA-ENTWICKLUNG</h3>
+                            <span className="qualification__subtitle">Amt für Berufsbildung und Arbeitsförderung 2 - Settat</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2020 - 2022
                             </div>
@@ -60,8 +60,8 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Diplome: Computer network specialist</h3>
-                            <span className="qualification__subtitle">Institute for Applied Technology 2-Settat</span>
+                            <h3 className="qualification__title">Diplom: TECHNIKEN DER COMPUTERNETZWERKE</h3>
+                            <span className="qualification__subtitle">Amt für Berufsbildung und Arbeitsförderung 2 - Settat</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2018 -2020
                             </div>
@@ -79,8 +79,8 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Science life and earth</h3>
-                            <span className="qualification__subtitle">Al-Amal</span>
+                            <h3 className="qualification__title">Experimentelle wissenschaften, Schwerpunk, Lebens-und Geowissenschaften</h3>
+                            <span className="qualification__subtitle">Al-Amal - Settat</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2017 - 2018
                             </div>
@@ -94,8 +94,8 @@ const Qualification = () => {
                     "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Project Creating Website</h3>
-                            <span className="qualification__subtitle">Booking Website in Coffe </span>
+                            <h3 className="qualification__title">Projekt zur Erstellung einer Website</h3>
+                            <span className="qualification__subtitle">Buchungswebsite in Coffee </span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2023
                             </div>
@@ -107,7 +107,7 @@ const Qualification = () => {
                         
                     </div>
 
-                    <div className="qualification__data">
+                    {/* <div className="qualification__data">
                         <div></div>
                         <div>
                             <span className="qualification__rounder"></span>
@@ -150,7 +150,7 @@ const Qualification = () => {
                                 <i className="uil uil-calendar-alt"></i> 2017 - 2018
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

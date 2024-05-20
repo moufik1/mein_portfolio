@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/mein_portfolio/static/css/main.300995f2.css",
-    "main.js": "/mein_portfolio/static/js/main.7b3572a9.js",
+    "main.css": "/mein_portfolio/static/css/main.00ba618b.css",
+    "main.js": "/mein_portfolio/static/js/main.0991969d.js",
     "static/js/787.7da95b79.chunk.js": "/mein_portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Zertifkat_B1_ösd.pdf": "/mein_portfolio/static/media/Zertifkat_B1_ösd.5fb23e5f4c208687b2f5.pdf",
     "static/media/Unterlagen2.jpg": "/mein_portfolio/static/media/Unterlagen2.1c725df45939fdfa29fd.jpg",
     "static/media/Unterlagen4.jpg": "/mein_portfolio/static/media/Unterlagen4.bd343eb01ef79b9c274e.jpg",
+    "static/media/openspace.png": "/mein_portfolio/static/media/openspace.b8277c84ae38a7846e06.png",
     "static/media/Unterlagen1.jpg": "/mein_portfolio/static/media/Unterlagen1.8c90e3ecf3d80653e83f.jpg",
     "static/media/Unterlagen7.jpg": "/mein_portfolio/static/media/Unterlagen7.1f61706df97920aa2c08.jpg",
     "static/media/Unterlagen5.jpg": "/mein_portfolio/static/media/Unterlagen5.88a3d7d93f99df140765.jpg",
@@ -14,15 +16,15 @@
     "static/media/Multimedia_Entwicklung_zertifikat.pdf": "/mein_portfolio/static/media/Multimedia_Entwicklung_zertifikat.cd5bc65da358ac81eaaa.pdf",
     "static/media/Computernetzwerk_zertifikat.pdf": "/mein_portfolio/static/media/Computernetzwerk_zertifikat.587e88a8e85830395ce2.pdf",
     "static/media/cv.pdf": "/mein_portfolio/static/media/cv.77b90ec35fd709f8705a.pdf",
-    "static/media/work1.jpg": "/mein_portfolio/static/media/work1.91fcb7c4b8db4c6ec9c9.jpg",
+    "static/media/Unterlagen8.jpg": "/mein_portfolio/static/media/Unterlagen8.f42d5cb44f6fd5c57266.jpg",
     "static/media/Mouad_fikri.jpg": "/mein_portfolio/static/media/Mouad_fikri.302cdb12100051dffc75.jpg",
     "index.html": "/mein_portfolio/index.html",
-    "main.300995f2.css.map": "/mein_portfolio/static/css/main.300995f2.css.map",
-    "main.7b3572a9.js.map": "/mein_portfolio/static/js/main.7b3572a9.js.map",
+    "main.00ba618b.css.map": "/mein_portfolio/static/css/main.00ba618b.css.map",
+    "main.0991969d.js.map": "/mein_portfolio/static/js/main.0991969d.js.map",
     "787.7da95b79.chunk.js.map": "/mein_portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.300995f2.css",
-    "static/js/main.7b3572a9.js"
+    "static/css/main.00ba618b.css",
+    "static/js/main.0991969d.js"
   ]
 }

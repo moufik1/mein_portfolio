@@ -10,17 +10,17 @@ const Qualification = () => {
   return (
     <section className="qualification section" id="qualification">
          <h2 className="section__title">Qualifikation</h2>
-        <span className="section__subtitle">My personal journey</span>
+        <span className="section__subtitle">Meine persönliche Reise</span>
         <div className="qualification__container container">
             <div className="qualification__tabs">
                 <div className = {toggleState === 1 ? "qualification__button qualification-active button--flex" : 
                 "qualification__button button--flex"} onClick={() => toggleTab(1)}>
-                    <i className="uil uil-graduation-cap qualification__icon"></i> Education
+                    <i className="uil uil-graduation-cap qualification__icon"></i> Bildungsweg
                 </div>
 
                 <div className= {toggleState === 2 ? "qualification__button qualification-active button--flex" : 
                 "qualification__button button--flex"} onClick={() => toggleTab(2)}>
-                    <i className="uil uil-briefcase-alt qualification__icon"></i> Experience
+                    <i className="uil uil-briefcase-alt qualification__icon"></i> Erfahrung
                 </div>
             </div>
             <div className="qualification__sections">

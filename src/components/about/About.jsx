@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/Mouad_fikri.jpg";
-import Cv from "../../assets/cv.pdf";
+import Lebenslauf from "../../assets/Lebenslauf.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -16,11 +16,11 @@ const About = () => {
                 <Info />
 
                 <p className="about__description">
-                Ich bin Mouad Fikri, 24 Jahre alt, und ich bringe eine solide Erfahrung in den Bereichen Computernetzwerke und Multimedia-Entwicklung mit. 
+                Ich bin Mouad Fikri, 25 Jahre alt, und ich bringe eine solide Erfahrung in den Bereichen Computernetzwerke und Multimedia-Entwicklung mit. 
                 Meine Ausbildung hat mir ein tiefes Verständnis für technische Systeme und die Fähigkeit gegeben, komplexe Probleme zu lösen. 
                 Ich bin bestrebt, meine Kenntnisse in Deutschland durch eine Ausbildung weiter zu vertiefen und freue mich auf die Möglichkeit, in einem dynamischen Umfeld zu lernen und zu wachsen.
                 </p>
-                <a download="" href={Cv} className="button button--flex">
+                <a download="" href={Lebenslauf} className="button button--flex">
                 Lebenslauf Herunterladen
                     <svg
                 class="button__icon"

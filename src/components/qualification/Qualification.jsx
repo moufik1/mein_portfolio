@@ -10,17 +10,17 @@ const Qualification = () => {
   return (
     <section className="qualification section" id="qualification">
          <h2 className="section__title">Qualifikation</h2>
-        <span className="section__subtitle">My personal journey</span>
+        <span className="section__subtitle">Persönlicher wiedergang</span>
         <div className="qualification__container container">
             <div className="qualification__tabs">
                 <div className = {toggleState === 1 ? "qualification__button qualification-active button--flex" : 
                 "qualification__button button--flex"} onClick={() => toggleTab(1)}>
-                    <i className="uil uil-graduation-cap qualification__icon"></i> Education
+                    <i className="uil uil-graduation-cap qualification__icon"></i> Bildung
                 </div>
 
                 <div className= {toggleState === 2 ? "qualification__button qualification-active button--flex" : 
                 "qualification__button button--flex"} onClick={() => toggleTab(2)}>
-                    <i className="uil uil-briefcase-alt qualification__icon"></i> Experience
+                    <i className="uil uil-briefcase-alt qualification__icon"></i> Erfahrung
                 </div>
             </div>
             <div className="qualification__sections">
@@ -32,7 +32,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Deutsch lernen</h3>
                             <span className="qualification__subtitle">Maghreb Language Center - Settat </span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2023
+                                <i className="uil uil-calendar-alt"></i> 09.2023 - Laufend
                             </div>
                         </div>
                         <div>
@@ -97,7 +97,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Projekt zur Erstellung einer Website</h3>
                             <span className="qualification__subtitle">Buchungswebsite in Coffee </span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2023
+                                <i className="uil uil-calendar-alt"></i> 12.2023 - 02.2024
                             </div>
                         </div>
                         <div>
@@ -105,6 +105,36 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Praktikum im Rathaus von settat</h3>
+                            <span className="qualification__subtitle">Erstellen einer Benutzeroberflächefür eine Website</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 03.2022 - 04.2022
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Praktikum im Rathaus von settat</h3>
+                            <span className="qualification__subtitle">Netzwerkinfrastrukturen konfiguriert und gewartet, um die Effizienz und Sicherheit zu verbessern</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2018 -2020
+                            </div>
+                        </div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
                     </div>
 
                     {/* <div className="qualification__data">

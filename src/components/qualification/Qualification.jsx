@@ -21,7 +21,6 @@ const Qualification = () => {
                 <div className= {toggleState === 2 ? "qualification__button qualification-active button--flex" : 
                 "qualification__button button--flex"} onClick={() => toggleTab(2)}>
                     <i className="uil uil-briefcase-alt qualification__icon"></i> Erfahrung
-                    <i className="uil uil-briefcase-alt qualification__icon"></i> Erfahrung
                 </div>
             </div>
             <div className="qualification__sections">
@@ -129,7 +128,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Praktikum im Rathaus von settat</h3>
                             <span className="qualification__subtitle">Netzwerkinfrastrukturen konfiguriert und gewartet, um die Effizienz und Sicherheit zu verbessern</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2018 -2020
+                                <i className="uil uil-calendar-alt"></i> 01.2020 -02.2020
                             </div>
                         </div>
                         <div>
@@ -138,35 +137,7 @@ const Qualification = () => {
                         </div>
                     </div>
 
-                    <div className="qualification__data">
-                        <div></div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                        <div>
-                            <h3 className="qualification__title">Praktikum im Rathaus von settat</h3>
-                            <span className="qualification__subtitle">Erstellen einer Benutzeroberflächefür eine Website</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 03.2022 - 04.2022
-                            </div>
-                        </div>
-                        
-                    </div>
-
-                    <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Praktikum im Rathaus von settat</h3>
-                            <span className="qualification__subtitle">Netzwerkinfrastrukturen konfiguriert und gewartet, um die Effizienz und Sicherheit zu verbessern</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2018 -2020
-                            </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                    </div>
+                
                 </div>
             </div>
         </div>
